@@ -26,3 +26,7 @@ Link to Projects from WTC
 
 ---
 
+### Résumé
+Link to Résumé
+
+---
