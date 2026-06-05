@@ -1,5 +1,5 @@
 # Mission Statement
-To provide solutions by analyzing data that in turn create actionable strategies to make a positive impact on an organization.
+To provide solutions by analyzing data that in turn create actionable strategies that contribute to making positive impacts on an organization.
 
 ---
 ### Education
