@@ -22,10 +22,7 @@ Float Teller @ River Bank - Various Locations              2015-2019
 
 ---
 ### Projects
-Link to Project from WTC  
+Link to Projects from WTC  
 
 ---
-### Résumé
-Link to Résumé  
 
----
