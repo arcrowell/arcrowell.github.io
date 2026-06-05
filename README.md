@@ -28,4 +28,8 @@ Link to Project from WTC
 ### Résumé
 Link to Résumé  
 
+---
 ### Certifications
+
+
+---
