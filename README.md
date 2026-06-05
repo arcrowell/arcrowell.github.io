@@ -10,6 +10,9 @@ B.S. Math Education                    University of Wisconsin-La Crosse (May 20
 B.S. Sports Management                 University of Minnesota-Twin Cities (May 2011)  
 
 ---
+### Certifications
+
+---
 ### Work Experience
 6th Grade Math Teacher @ Sparta Meadowview Middle School   2019-2026
 
@@ -24,8 +27,5 @@ Link to Project from WTC
 ---
 ### Résumé
 Link to Résumé  
-
----
-### Certifications
 
 ---
